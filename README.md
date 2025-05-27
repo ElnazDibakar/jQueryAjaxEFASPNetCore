@@ -1,7 +1,7 @@
 Ce projet utilise le framework ASP.NET MVC avec Entity Framework (EF) pour la gestion des données, et AJAX (jQuery) pour une interaction utilisateur fluide, sans rechargement de page.
 🔹 Fonctionnalités principales :
 
-    Ajout, modification et suppression d'entités (ex : catégories, produits)
+    Ajout, modification et suppression d'entités 
 
     Appels AJAX pour soumettre les formulaires ou effectuer des actions côté serveur de manière asynchrone
 
